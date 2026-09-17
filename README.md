@@ -1,5 +1,3 @@
-[README.pt-PT.md](https://github.com/user-attachments/files/32346333/README.pt-PT.md)[Uploading README# Workshop de extração de dados do YouTube
-
 [English](README.md) | [Português (Portugal)](README.pt-PT.md)
 
 Este repositório contém um notebook para Google Colab destinado à recolha de metadados de vídeos, comentários de primeiro nível e identificadores de utilizadores de um canal do YouTube através da YouTube Data API v3. Foi concebido para fins letivos e exercícios de investigação de pequena escala. Os limites predefinidos permitem concluir a extração durante um workshop.
