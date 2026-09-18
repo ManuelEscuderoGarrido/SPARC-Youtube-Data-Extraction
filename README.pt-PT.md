@@ -1,4 +1,6 @@
-# Workshop de extração de dados do YouTube
+# SPARC Workshop de extração de dados do YouTube
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ManuelEscuderoGarrido/SPARC-Youtube-Data-Extraction/blob/main/youtube_data_extraction_workshop.ipynb)
 
 [English](README.md) | [Português (Portugal)](README.pt-PT.md)
 
