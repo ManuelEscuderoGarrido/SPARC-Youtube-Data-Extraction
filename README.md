@@ -63,7 +63,7 @@ Only the configuration cell normally needs to be changed.
 | `MAX_VIDEOS` | Maximum number of matching videos | `5` |
 | `MAX_COMMENTS_PER_VIDEO` | Maximum top-level comments per video | `100` |
 | `SAVE_TO_DRIVE` | Save results in Google Drive | `True` |
-| `OUTPUT_ROOT` | Root output folder | `youtube_workshop_data` |
+| `OUTPUT_ROOT` | Root output folder | `youtube_extraction_data` |
 
 Set `MAX_VIDEOS` or `MAX_COMMENTS_PER_VIDEO` to `None` to remove the corresponding limit. Doing so may substantially increase runtime, storage use, and API-quota consumption.
 
@@ -73,7 +73,7 @@ When Google Drive storage is enabled, results are created under:
 
 ```text
 MyDrive/
-└── youtube_workshop_data/
+└── youtube_extraction_data/
     └── CHANNEL_NAME/
         └── START_DATE_END_DATE/
             ├── videos.csv
