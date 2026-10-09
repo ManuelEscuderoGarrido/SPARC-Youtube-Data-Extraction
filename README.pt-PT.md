@@ -6,6 +6,10 @@
 
 Este repositório contém um notebook para Google Colab destinado à recolha de metadados de vídeos, comentários de primeiro nível e identificadores de utilizadores de um canal do YouTube através da YouTube Data API v3. Foi concebido para fins letivos e exercícios de investigação de pequena escala. Os limites predefinidos permitem concluir a extração durante um workshop.
 
+## Resultados de exemplo
+
+[Descarregar os resultados de exemplo](example_results.zip): ficheiros CSV e gráficos da extração realizada no workshop. Os identificadores dos utilizadores foram substituídos por códigos consistentes e os textos dos comentários são exemplos fictícios.
+
 ## O que faz o notebook
 
 O notebook:
