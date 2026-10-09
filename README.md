@@ -6,6 +6,10 @@
 
 This repository contains a Google Colab notebook for collecting video metadata, top-level comments, and user identifiers from a YouTube channel through the YouTube Data API v3. It is intended for teaching and small-scale research exercises. The default limits keep the extraction short enough for a workshop.
 
+## Example results
+
+[Download the example results](example_results.zip): CSV files and figures from five videos, with 100 extracted comments per video. User identifiers have been replaced with consistent codes, comment texts are fictitious placeholders, and comment timestamps have been removed.
+
 ## What the notebook does
 
 The notebook:
